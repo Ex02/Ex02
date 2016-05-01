@@ -19,6 +19,30 @@ Here is the software website - ([link to website](http://www.labsat.co.uk/index.
 
 
 
+# Converting NMEA files to CSV and KML files
+
+In our project we ask to convert NMEA files to CSV and KML files by using python language. We built a system that can do this conversion.
+
+**Options the system offers:**
+*	Upload NMEA files to database by MySQL
+*	Select the wanted data from the NMEA files (height, speed, time ...).
+*	Choose the file type that we want to convert to – KML or CSV – from the database.
+*	Create the file requested
+
+
+
+#About the system:
+
+The system allows to download NMEA files and save them into a database, also the system allows to make CSV and KML files from the database.
+
+Here is our UML : 
+
+
+
+
+
+
+
 
 **The system allows:**  
 * uploading NMEA files to database (we used MySQL).
