@@ -1,7 +1,7 @@
 # NMEA files
 In the first part of our project we asked to create NMEA files with our cellphones or using software, and search at the internet special NMEA files (plane, hot air balloon, ship ...).  
 
-***The system allows:***  
+**The system allows:**  
 * uploading NMEA files to database (we used MySQL).
 * Selecting / filtering the wanted data from the NMEA files (height, velocity, etc ...).
 * Choosing the file type to receive from database (KML or CSV).
