@@ -13,7 +13,9 @@ The system can create demo files by two options :
 *	Create a route from one point on the map and set the time.
 *	Creating a route by selecting points on the map.
 
+After it create the demo file it shows the same details as the NMEA file. 
 
+Here is the software website - ([link to website](http://www.labsat.co.uk/index.php/en/products/satgen-simulator-software)):
 
 
 
