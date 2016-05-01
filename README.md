@@ -35,7 +35,7 @@ In our project we ask to convert NMEA files to CSV and KML files by using python
 
 The system allows to download NMEA files and save them into a database, also the system allows to make CSV and KML files from the database.
 
-Here is our UML : ([link to uml](https://github.com/Ex02/Ex02/blob/master/uml.png)):
+Here is our UML : [link to uml](https://github.com/Ex02/Ex02/blob/master/uml.png)
 
 
 # Authors:
