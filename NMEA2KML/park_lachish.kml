@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+    <Document>
+     <Folder>
+     <name>Point Features</name>
+     <description>Point Features</description>
+
+<Placemark>
+    <TimeStamp>
+     <when>20-- T04:22:01Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.8248375833 <br> Lon: 34.6658675167<br> Speed: 35.19 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6658675167,31.8248375833,8.5</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>2016-04-08T04:22:03Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.8248382167 <br> Lon: 34.66584945<br> Speed:   <br>]]></description>
+    <Point>
+        <coordinates>34.66584945,31.8248382167, </coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T04:22:06Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.8248297 <br> Lon: 34.6658213<br> Speed: 35.19 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6658213,31.8248297,8.2</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>2016-04-08T04:22:08Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.8248290333 <br> Lon: 34.66581445<br> Speed:   <br>]]></description>
+    <Point>
+        <coordinates>34.66581445,31.8248290333, </coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T04:22:11Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.8248292833 <br> Lon: 34.6658130167<br> Speed: 35.19 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6658130167,31.8248292833,9.3</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>2016-04-08T04:22:13Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.8248295 <br> Lon: 34.6658127<br> Speed:   <br>]]></description>
+    <Point>
+        <coordinates>34.6658127,31.8248295, </coordinates>
+    </Point>
+</Placemark>
+        </Folder>
+    </Document>
+</kml>

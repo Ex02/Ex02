@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+    <Document>
+     <Folder>
+     <name>Point Features</name>
+     <description>Point Features</description>
+
+<Placemark>
+    <TimeStamp>
+     <when>20-- T05:04:56Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819685 <br> Lon: 34.6395915<br> Speed: 35.19 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6395915,31.7819685,67.1</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>2016-04-08T05:04:58Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7820091833 <br> Lon: 34.6396254<br> Speed:   <br>]]></description>
+    <Point>
+        <coordinates>34.6396254,31.7820091833, </coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T05:05:01Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819891833 <br> Lon: 34.6396357<br> Speed: 35.19 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6396357,31.7819891833,66.7</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>2016-04-08T05:05:03Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819782833 <br> Lon: 34.6396427167<br> Speed:   <br>]]></description>
+    <Point>
+        <coordinates>34.6396427167,31.7819782833, </coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T05:05:06Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7817225667 <br> Lon: 34.6396408<br> Speed: 35.19 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6396408,31.7817225667,49.2</coordinates>
+    </Point>
+</Placemark>
+        </Folder>
+    </Document>
+</kml>
