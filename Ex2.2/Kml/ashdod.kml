@@ -1,0 +1,4555 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+    <Document>
+     <Folder>
+     <name>Point Features</name>
+     <description>Point Features</description>
+
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:00Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:00Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:01Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:01Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:02Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:02Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:03Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:03Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:04Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:04Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:05Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:05Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:06Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:06Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:07Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:07Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:08Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:08Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:09Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:09Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:10Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:10Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:11Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:11Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:12Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:12Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:13Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:13Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:14Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:14Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:15Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:15Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:16Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:16Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:17Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:17Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:18Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:18Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:19Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:19Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:20Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:20Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:21Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:21Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:22Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:22Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:23Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:23Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:24Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:24Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:25Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:25Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:26Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:26Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:27Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:27Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:28Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:28Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:29Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:29Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:30Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:30Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:31Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:31Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:32Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:32Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:33Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:33Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:34Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:34Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:35Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:35Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:36Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:36Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:37Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:37Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:38Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:38Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:39Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:39Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:40Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:40Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:41Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:41Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:42Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:42Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:43Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:43Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:44Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:44Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:45Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:45Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:46Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:46Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:47Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:47Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:48Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:48Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:49Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:49Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:50Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:50Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:51Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:51Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:52Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:52Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:53Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:53Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:54Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:54Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:55Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:55Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:56Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:56Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:57Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:57Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:58Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:58Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:59Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:00:59Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:00Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:00Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:01Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:01Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:02Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:02Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:03Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:03Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:04Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:04Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:05Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:05Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:06Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:06Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:07Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:07Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:08Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:08Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:09Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:09Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:10Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:10Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:11Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:11Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:12Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:12Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:13Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:13Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:14Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:14Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:15Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:15Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:16Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:16Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:17Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:17Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:18Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:18Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:19Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:19Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209433 <br> Lon: 34.6394516265<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394516265,31.7819209433,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:20Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819209125 <br> Lon: 34.6394181638<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6394181638,31.7819209125,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:20Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819372942 <br> Lon: 34.6393369042<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6393369042,31.7819372942,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:21Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819612105 <br> Lon: 34.6392580667<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6392580667,31.7819612105,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:21Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819781533 <br> Lon: 34.6391851192<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6391851192,31.7819781533,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:22Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819756845 <br> Lon: 34.639129404<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.639129404,31.7819756845,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:22Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819469555 <br> Lon: 34.6390835062<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6390835062,31.7819469555,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:23Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7818892532 <br> Lon: 34.6390343542<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6390343542,31.7818892532,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:23Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7818002942 <br> Lon: 34.6389780493<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6389780493,31.7818002942,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:24Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7816954235 <br> Lon: 34.6389267077<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6389267077,31.7816954235,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:24Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7815838453 <br> Lon: 34.6388985373<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6388985373,31.7815838453,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:25Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7814779437 <br> Lon: 34.638878966<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.638878966,31.7814779437,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:25Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7813999958 <br> Lon: 34.6388526797<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6388526797,31.7813999958,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:26Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7813497062 <br> Lon: 34.6388277858<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6388277858,31.7813497062,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:26Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7813090683 <br> Lon: 34.6388002135<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6388002135,31.7813090683,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:27Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7812722423 <br> Lon: 34.6387662638<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6387662638,31.7812722423,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:27Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.781240775 <br> Lon: 34.6387256058<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6387256058,31.781240775,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:28Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7812156627 <br> Lon: 34.6386792958<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6386792958,31.7812156627,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:28Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7811991928 <br> Lon: 34.638627977<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.638627977,31.7811991928,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:29Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.781191545 <br> Lon: 34.6385738595<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6385738595,31.781191545,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:29Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7811930757 <br> Lon: 34.6385190707<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6385190707,31.7811930757,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:30Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7812063672 <br> Lon: 34.638466602<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.638466602,31.7812063672,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:30Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7812310335 <br> Lon: 34.6384199987<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6384199987,31.7812310335,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:31Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7812624678 <br> Lon: 34.6383792993<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6383792993,31.7812624678,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:31Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7812994862 <br> Lon: 34.6383456997<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6383456997,31.7812994862,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:32Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7813423223 <br> Lon: 34.6383237085<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6383237085,31.7813423223,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:32Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7813882672 <br> Lon: 34.6383128462<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6383128462,31.7813882672,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:33Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7814350397 <br> Lon: 34.6383087937<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6383087937,31.7814350397,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:33Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7814819275 <br> Lon: 34.638310106<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.638310106,31.7814819275,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:34Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.781528645 <br> Lon: 34.6383151868<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6383151868,31.781528645,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:34Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7815748942 <br> Lon: 34.6383093768<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6383093768,31.7815748942,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:35Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7816172417 <br> Lon: 34.6382739232<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6382739232,31.7816172417,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:35Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7816655772 <br> Lon: 34.6382043312<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6382043312,31.7816655772,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:36Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7817314588 <br> Lon: 34.6381042852<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6381042852,31.7817314588,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:36Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7818136398 <br> Lon: 34.6379957592<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6379957592,31.7818136398,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:37Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7818955345 <br> Lon: 34.637884809<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.637884809,31.7818955345,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:37Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819764557 <br> Lon: 34.637772879<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.637772879,31.7819764557,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:38Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7820570243 <br> Lon: 34.6376606015<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6376606015,31.7820570243,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:38Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7821362407 <br> Lon: 34.6375470172<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6375470172,31.7821362407,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:39Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7822130458 <br> Lon: 34.6374311822<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6374311822,31.7822130458,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:39Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7822898538 <br> Lon: 34.6373153493<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6373153493,31.7822898538,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:40Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7823686272 <br> Lon: 34.6372013443<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6372013443,31.7823686272,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:40Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7824518562 <br> Lon: 34.6370917883<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6370917883,31.7824518562,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:41Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7825357975 <br> Lon: 34.6369829765<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6369829765,31.7825357975,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:41Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7826094345 <br> Lon: 34.6368644373<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6368644373,31.7826094345,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:42Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7826809028 <br> Lon: 34.636744032<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.636744032,31.7826809028,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:42Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7827572333 <br> Lon: 34.6366277683<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6366277683,31.7827572333,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:43Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7828310508 <br> Lon: 34.6365093282<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6365093282,31.7828310508,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:43Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7829002767 <br> Lon: 34.6363871222<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6363871222,31.7829002767,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:44Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7829677312 <br> Lon: 34.6362650813<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6362650813,31.7829677312,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:44Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.783028796 <br> Lon: 34.636158806<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.636158806,31.783028796,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:45Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7830856108 <br> Lon: 34.6360817225<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6360817225,31.7830856108,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:45Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7831545837 <br> Lon: 34.6360259038<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6360259038,31.7831545837,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:46Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7832295992 <br> Lon: 34.6359545117<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6359545117,31.7832295992,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:46Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7832835137 <br> Lon: 34.6358562028<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6358562028,31.7832835137,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:47Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7833054475 <br> Lon: 34.6357418823<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6357418823,31.7833054475,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:47Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.783332014 <br> Lon: 34.6356286422<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6356286422,31.783332014,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:48Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7833811037 <br> Lon: 34.6355141268<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6355141268,31.7833811037,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:48Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7834431292 <br> Lon: 34.6353888253<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6353888253,31.7834431292,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:49Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.783507586 <br> Lon: 34.6352630958<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6352630958,31.783507586,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:49Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7835722728 <br> Lon: 34.6351375282<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6351375282,31.7835722728,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:50Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7836365245 <br> Lon: 34.6350116547<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6350116547,31.7836365245,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:50Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7837007622 <br> Lon: 34.6348857713<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6348857713,31.7837007622,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:51Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.783766362 <br> Lon: 34.6347608585<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6347608585,31.783766362,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:51Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7838365895 <br> Lon: 34.6346403493<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6346403493,31.7838365895,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:52Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7839058345 <br> Lon: 34.6345371922<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6345371922,31.7839058345,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:52Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7839661415 <br> Lon: 34.6344666488<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6344666488,31.7839661415,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:53Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7840303247 <br> Lon: 34.6344258155<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6344258155,31.7840303247,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:53Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7841124923 <br> Lon: 34.6344076878<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6344076878,31.7841124923,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:54Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.784222723 <br> Lon: 34.634406726<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.634406726,31.784222723,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:54Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7843457447 <br> Lon: 34.6344277682<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6344277682,31.7843457447,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:55Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7844684883 <br> Lon: 34.6344443708<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6344443708,31.7844684883,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:55Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7845925697 <br> Lon: 34.6344360248<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6344360248,31.7845925697,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:56Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.784716563 <br> Lon: 34.634415508<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.634415508,31.784716563,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:56Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7848378258 <br> Lon: 34.634379121<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.634379121,31.7848378258,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:57Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7849560028 <br> Lon: 34.6343306153<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6343306153,31.7849560028,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:57Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7850705777 <br> Lon: 34.6342714207<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6342714207,31.7850705777,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:58Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7851828452 <br> Lon: 34.634206408<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.634206408,31.7851828452,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:58Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7852919165 <br> Lon: 34.6341344042<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6341344042,31.7852919165,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:59Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7853935095 <br> Lon: 34.6340487078<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6340487078,31.7853935095,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:01:59Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7854930333 <br> Lon: 34.6339596742<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6339596742,31.7854930333,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:00Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7855949655 <br> Lon: 34.6338744562<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6338744562,31.7855949655,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:00Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7856977455 <br> Lon: 34.6337906397<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6337906397,31.7856977455,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:01Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.785798966 <br> Lon: 34.6337074835<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6337074835,31.785798966,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:01Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7858854785 <br> Lon: 34.6336339402<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6336339402,31.7858854785,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:02Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7859482522 <br> Lon: 34.6335836743<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6335836743,31.7859482522,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:02Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7860011795 <br> Lon: 34.6335615218<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6335615218,31.7860011795,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:03Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.786059364 <br> Lon: 34.6335710088<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6335710088,31.786059364,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:03Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7861344053 <br> Lon: 34.6336116655<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6336116655,31.7861344053,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:04Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7862299983 <br> Lon: 34.6336810928<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6336810928,31.7862299983,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:04Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7863384735 <br> Lon: 34.6337530547<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6337530547,31.7863384735,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:05Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7864496865 <br> Lon: 34.6338205223<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6338205223,31.7864496865,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:05Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7865621048 <br> Lon: 34.6338826173<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6338826173,31.7865621048,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:06Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7866637935 <br> Lon: 34.6339319993<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6339319993,31.7866637935,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:06Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7867390007 <br> Lon: 34.6339617475<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6339617475,31.7867390007,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:07Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7867930677 <br> Lon: 34.6339675773<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6339675773,31.7867930677,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:07Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7868386943 <br> Lon: 34.633942994<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.633942994,31.7868386943,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:08Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7868875738 <br> Lon: 34.6338862465<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6338862465,31.7868875738,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:08Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7869490765 <br> Lon: 34.6337932132<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6337932132,31.7869490765,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:09Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7870222727 <br> Lon: 34.6336792768<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6336792768,31.7870222727,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:09Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7871008095 <br> Lon: 34.633565047<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.633565047,31.7871008095,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:10Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7871820127 <br> Lon: 34.6334534087<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6334534087,31.7871820127,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:10Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7872679782 <br> Lon: 34.633346774<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.633346774,31.7872679782,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:11Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7873544975 <br> Lon: 34.6332407465<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6332407465,31.7873544975,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:11Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7874348853 <br> Lon: 34.6331283385<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6331283385,31.7874348853,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:12Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7875122015 <br> Lon: 34.6330129692<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6330129692,31.7875122015,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:12Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7875931228 <br> Lon: 34.6329010575<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6329010575,31.7875931228,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:13Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7876762938 <br> Lon: 34.6327914107<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6327914107,31.7876762938,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:13Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7877580932 <br> Lon: 34.6326803685<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6326803685,31.7877580932,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:14Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7878367437 <br> Lon: 34.6325662425<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6325662425,31.7878367437,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:14Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.78791594 <br> Lon: 34.6324526397<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6324526397,31.78791594,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:15Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.788000073 <br> Lon: 34.6323440305<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6323440305,31.788000073,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:15Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7880870255 <br> Lon: 34.6322384815<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6322384815,31.7880870255,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:16Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7881737932 <br> Lon: 34.6321327247<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6321327247,31.7881737932,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:16Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7882595633 <br> Lon: 34.6320258568<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6320258568,31.7882595633,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:17Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7883455415 <br> Lon: 34.6319192188<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6319192188,31.7883455415,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:17Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7884334597 <br> Lon: 34.6318147795<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6318147795,31.7884334597,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:18Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7885232265 <br> Lon: 34.63171251<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.63171251,31.7885232265,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:18Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7886132967 <br> Lon: 34.6316106058<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6316106058,31.7886132967,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:19Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7887026508 <br> Lon: 34.6315078437<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6315078437,31.7887026508,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:19Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7887885623 <br> Lon: 34.6314011707<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6314011707,31.7887885623,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:20Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7888689062 <br> Lon: 34.6312886763<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6312886763,31.7888689062,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:20Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7889503435 <br> Lon: 34.6311772813<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6311772813,31.7889503435,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:21Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7890335977 <br> Lon: 34.6310737835<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6310737835,31.7890335977,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:21Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7890995998 <br> Lon: 34.6309865832<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6309865832,31.7890995998,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:22Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7891362693 <br> Lon: 34.6309209208<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6309209208,31.7891362693,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:22Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7891461212 <br> Lon: 34.6308704317<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6308704317,31.7891461212,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:23Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7891283777 <br> Lon: 34.6308241653<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6308241653,31.7891283777,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:23Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7890829592 <br> Lon: 34.6307703193<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6307703193,31.7890829592,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:24Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7890065702 <br> Lon: 34.6307001632<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6307001632,31.7890065702,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:24Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7889108983 <br> Lon: 34.6306144507<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6306144507,31.7889108983,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:25Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.788813335 <br> Lon: 34.6305224953<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6305224953,31.788813335,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:25Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7887191853 <br> Lon: 34.6304257867<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6304257867,31.7887191853,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:26Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7886207632 <br> Lon: 34.6303352247<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6303352247,31.7886207632,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:26Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7885193535 <br> Lon: 34.6302491677<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6302491677,31.7885193535,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:27Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7884204805 <br> Lon: 34.6301591377<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6301591377,31.7884204805,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:27Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7883206092 <br> Lon: 34.630070644<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.630070644,31.7883206092,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:28Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7882184952 <br> Lon: 34.6299857183<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6299857183,31.7882184952,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:28Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.788116007 <br> Lon: 34.6299014108<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6299014108,31.788116007,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:29Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7880147023 <br> Lon: 34.6298151757<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6298151757,31.7880147023,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:29Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7879166127 <br> Lon: 34.6297239897<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6297239897,31.7879166127,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:30Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7878199908 <br> Lon: 34.6296306693<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6296306693,31.7878199908,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:30Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.787723603 <br> Lon: 34.6295370175<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6295370175,31.787723603,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:31Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.78762673 <br> Lon: 34.6294440557<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6294440557,31.78762673,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:31Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7875277575 <br> Lon: 34.6293541935<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6293541935,31.7875277575,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:32Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7874264535 <br> Lon: 34.6292679493<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6292679493,31.7874264535,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:32Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7873243963 <br> Lon: 34.6291829292<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6291829292,31.7873243963,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:33Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.787221737 <br> Lon: 34.6290989093<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6290989093,31.787221737,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:33Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.787117892 <br> Lon: 34.6290172597<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6290172597,31.787117892,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:34Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7870208472 <br> Lon: 34.6289423212<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6289423212,31.7870208472,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:34Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7869473617 <br> Lon: 34.6288844118<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6288844118,31.7869473617,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:35Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7869027445 <br> Lon: 34.6288419148<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6288419148,31.7869027445,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:35Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7868841657 <br> Lon: 34.6287973642<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6287973642,31.7868841657,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:36Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.786889825 <br> Lon: 34.6287386927<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6287386927,31.786889825,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:36Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7869169653 <br> Lon: 34.6286528913<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6286528913,31.7869169653,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:37Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7869648002 <br> Lon: 34.6285379083<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6285379083,31.7869648002,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:37Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7870255423 <br> Lon: 34.6284111692<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6284111692,31.7870255423,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:38Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7870945368 <br> Lon: 34.6282888033<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6282888033,31.7870945368,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:38Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7871681035 <br> Lon: 34.628170135<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.628170135,31.7871681035,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:39Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7872479318 <br> Lon: 34.6280603568<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6280603568,31.7872479318,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:39Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.787327521 <br> Lon: 34.6279756588<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6279756588,31.787327521,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:40Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7874083385 <br> Lon: 34.6279113253<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6279113253,31.7874083385,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:40Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7874878957 <br> Lon: 34.6278456938<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6278456938,31.7874878957,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:41Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7875333543 <br> Lon: 34.6277464095<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6277464095,31.7875333543,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:41Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7875164295 <br> Lon: 34.6276369553<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6276369553,31.7875164295,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:42Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7874405528 <br> Lon: 34.6275680317<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6275680317,31.7874405528,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:42Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.787344726 <br> Lon: 34.6275503433<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6275503433,31.787344726,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:43Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7872473205 <br> Lon: 34.6275455848<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6275455848,31.7872473205,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:43Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.787147212 <br> Lon: 34.6275173967<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6275173967,31.787147212,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:44Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7870333125 <br> Lon: 34.6274715985<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6274715985,31.7870333125,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:44Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.786916376 <br> Lon: 34.6274190567<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6274190567,31.786916376,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:45Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.786800628 <br> Lon: 34.6273630052<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6273630052,31.786800628,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:45Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7866852375 <br> Lon: 34.6273059483<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6273059483,31.7866852375,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:46Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7865695773 <br> Lon: 34.6272496475<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6272496475,31.7865695773,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:46Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7864525432 <br> Lon: 34.6271974235<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6271974235,31.7864525432,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:47Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.786333877 <br> Lon: 34.6271504785<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6271504785,31.786333877,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:47Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7862147587 <br> Lon: 34.6271051222<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6271051222,31.7862147587,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:48Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7860955432 <br> Lon: 34.6270601162<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6270601162,31.7860955432,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:48Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7859763527 <br> Lon: 34.6270150203<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6270150203,31.7859763527,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:49Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7858573675 <br> Lon: 34.6269691888<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6269691888,31.7858573675,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:49Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7857391153 <br> Lon: 34.6269208362<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6269208362,31.7857391153,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:50Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7856214725 <br> Lon: 34.6268704777<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6268704777,31.7856214725,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:50Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7855039937 <br> Lon: 34.6268195968<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6268195968,31.7855039937,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:51Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.785386559 <br> Lon: 34.6267685765<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6267685765,31.785386559,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:51Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7852691483 <br> Lon: 34.6267174803<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6267174803,31.7852691483,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:52Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7851517967 <br> Lon: 34.6266661985<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6266661985,31.7851517967,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:52Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7850346765 <br> Lon: 34.6266141983<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6266141983,31.7850346765,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:53Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7849180042 <br> Lon: 34.6265608358<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6265608358,31.7849180042,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:53Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7848014618 <br> Lon: 34.626507084<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.626507084,31.7848014618,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:54Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7846847682 <br> Lon: 34.6264537855<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6264537855,31.7846847682,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:54Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7845673187 <br> Lon: 34.62640283<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.62640283,31.7845673187,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:55Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7844481482 <br> Lon: 34.6263576875<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6263576875,31.7844481482,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:55Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7843282365 <br> Lon: 34.6263152952<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6263152952,31.7843282365,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:56Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7842081657 <br> Lon: 34.6262735232<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6262735232,31.7842081657,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:56Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7840881203 <br> Lon: 34.6262316507<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6262316507,31.7840881203,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:57Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7839683477 <br> Lon: 34.6261887258<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6261887258,31.7839683477,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:57Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7838497763 <br> Lon: 34.6261415017<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6261415017,31.7838497763,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:58Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7837331977 <br> Lon: 34.6260878717<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6260878717,31.7837331977,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:58Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7836173253 <br> Lon: 34.6260321717<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6260321717,31.7836173253,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:59Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7835016397 <br> Lon: 34.6259759417<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6259759417,31.7835016397,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:02:59Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.78338603 <br> Lon: 34.6259194985<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6259194985,31.78338603,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:00Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7832743828 <br> Lon: 34.6258645627<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6258645627,31.7832743828,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:00Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7831837132 <br> Lon: 34.6258181975<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6258181975,31.7831837132,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:01Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7831172388 <br> Lon: 34.6257749428<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6257749428,31.7831172388,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:01Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7830628012 <br> Lon: 34.6257208208<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6257208208,31.7830628012,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:02Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7830094738 <br> Lon: 34.6256651452<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6256651452,31.7830094738,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:02Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7829462722 <br> Lon: 34.6256270467<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6256270467,31.7829462722,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:03Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.782872842 <br> Lon: 34.6256174638<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6256174638,31.782872842,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:03Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7827794068 <br> Lon: 34.6256127037<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6256127037,31.7827794068,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:04Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7826623358 <br> Lon: 34.6255919852<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6255919852,31.7826623358,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:04Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7825400858 <br> Lon: 34.62556032<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.62556032,31.7825400858,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:05Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7824188663 <br> Lon: 34.6255234313<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6255234313,31.7824188663,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:05Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7822995397 <br> Lon: 34.6254788825<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6254788825,31.7822995397,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:06Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7821811867 <br> Lon: 34.6254308695<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6254308695,31.7821811867,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:06Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.78206308 <br> Lon: 34.6253820307<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6253820307,31.78206308,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:07Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7819450043 <br> Lon: 34.6253330887<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6253330887,31.7819450043,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:07Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7818268138 <br> Lon: 34.6252845283<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6252845283,31.7818268138,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:08Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7817083068 <br> Lon: 34.6252370375<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6252370375,31.7817083068,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:08Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7815896735 <br> Lon: 34.6251899807<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6251899807,31.7815896735,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:09Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7814711303 <br> Lon: 34.6251426137<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6251426137,31.7814711303,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:09Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7813531045 <br> Lon: 34.625093516<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.625093516,31.7813531045,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:10Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7812359227 <br> Lon: 34.6250417167<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6250417167,31.7812359227,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:10Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7811190048 <br> Lon: 34.6249891033<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6249891033,31.7811190048,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:11Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7810020438 <br> Lon: 34.6249366218<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6249366218,31.7810020438,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:11Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7808846388 <br> Lon: 34.6248855233<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6248855233,31.7808846388,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:12Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.780765609 <br> Lon: 34.6248399402<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6248399402,31.780765609,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:12Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7806449305 <br> Lon: 34.6248006608<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6248006608,31.7806449305,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:13Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7805242618 <br> Lon: 34.6247613407<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6247613407,31.7805242618,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:13Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7804060572 <br> Lon: 34.624714891<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.624714891,31.7804060572,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:14Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7803025808 <br> Lon: 34.6246625458<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6246625458,31.7803025808,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:14Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7802252563 <br> Lon: 34.6246122437<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6246122437,31.7802252563,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:15Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7801647467 <br> Lon: 34.6245516972<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6245516972,31.7801647467,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:15Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7801179277 <br> Lon: 34.6244765495<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6244765495,31.7801179277,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:16Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7800934693 <br> Lon: 34.6243883667<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6243883667,31.7800934693,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:16Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7800964995 <br> Lon: 34.6242976845<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6242976845,31.7800964995,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:17Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.780124682 <br> Lon: 34.6242055242<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6242055242,31.780124682,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:17Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7801693642 <br> Lon: 34.6240920077<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6240920077,31.7801693642,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:18Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7801476998 <br> Lon: 34.6240685298<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6240685298,31.7801476998,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:18Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7800661993 <br> Lon: 34.6241712445<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6241712445,31.7800661993,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:19Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7799870575 <br> Lon: 34.6242628663<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6242628663,31.7799870575,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:19Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7798981238 <br> Lon: 34.6243314172<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6243314172,31.7798981238,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:20Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.779798955 <br> Lon: 34.624371228<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.624371228,31.779798955,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:20Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7797023162 <br> Lon: 34.6243805472<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6243805472,31.7797023162,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:21Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7795972763 <br> Lon: 34.6243645072<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6243645072,31.7795972763,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:21Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7794771253 <br> Lon: 34.6243357168<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6243357168,31.7794771253,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:22Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.779354945 <br> Lon: 34.6243033982<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6243033982,31.779354945,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:22Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7792329018 <br> Lon: 34.6242703747<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6242703747,31.7792329018,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:23Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7791108948 <br> Lon: 34.6242371685<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6242371685,31.7791108948,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:23Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.778988908 <br> Lon: 34.6242038608<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6242038608,31.778988908,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:24Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7788669717 <br> Lon: 34.6241703012<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6241703012,31.7788669717,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:24Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7787452357 <br> Lon: 34.6241357632<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6241357632,31.7787452357,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:25Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.778624369 <br> Lon: 34.6240973203<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6240973203,31.778624369,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:25Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7785052033 <br> Lon: 34.624052154<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.624052154,31.7785052033,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:26Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7783866917 <br> Lon: 34.6240046713<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6240046713,31.7783866917,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:26Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7782682892 <br> Lon: 34.623956816<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.623956816,31.7782682892,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:27Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7781496802 <br> Lon: 34.6239096683<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6239096683,31.7781496802,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:27Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7780301273 <br> Lon: 34.623865949<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.623865949,31.7780301273,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:28Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.777908866 <br> Lon: 34.6238292207<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6238292207,31.777908866,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:28Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7777870118 <br> Lon: 34.6237952563<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6237952563,31.7777870118,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:29Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7776650197 <br> Lon: 34.6237619768<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6237619768,31.7776650197,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:29Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7775429945 <br> Lon: 34.6237288625<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6237288625,31.7775429945,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:30Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7774209648 <br> Lon: 34.623695771<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.623695771,31.7774209648,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:30Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7772989487 <br> Lon: 34.6236626117<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6236626117,31.7772989487,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:31Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.777176995 <br> Lon: 34.6236291387<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6236291387,31.777176995,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:31Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7770552587 <br> Lon: 34.6235946012<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6235946012,31.7770552587,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:32Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7769337047 <br> Lon: 34.6235591923<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6235591923,31.7769337047,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:32Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7768121992 <br> Lon: 34.6235235557<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6235235557,31.7768121992,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:33Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7766907055 <br> Lon: 34.6234878637<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6234878637,31.7766907055,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:33Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.776569214 <br> Lon: 34.6234521622<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6234521622,31.776569214,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:34Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7764477195 <br> Lon: 34.6234164747<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6234164747,31.7764477195,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:34Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7763262098 <br> Lon: 34.6233808572<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6233808572,31.7763262098,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:35Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7762046397 <br> Lon: 34.6233455252<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6233455252,31.7762046397,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:35Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.77608283 <br> Lon: 34.6233113473<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6233113473,31.77608283,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:36Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7759604413 <br> Lon: 34.623280136<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.623280136,31.7759604413,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:36Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7758377792 <br> Lon: 34.6232504222<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6232504222,31.7758377792,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:37Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7757150547 <br> Lon: 34.6232210628<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6232210628,31.7757150547,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:37Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.775592327 <br> Lon: 34.623191722<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.623191722,31.775592327,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:38Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7754696478 <br> Lon: 34.6231621047<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6231621047,31.7754696478,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:38Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7753471862 <br> Lon: 34.6231312853<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6231312853,31.7753471862,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:39Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7752256772 <br> Lon: 34.623095746<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.623095746,31.7752256772,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:39Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7751056963 <br> Lon: 34.623053637<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.623053637,31.7751056963,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:40Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7749862468 <br> Lon: 34.6230094933<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6230094933,31.7749862468,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:40Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7748669167 <br> Lon: 34.6229649087<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6229649087,31.7748669167,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:41Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7747475497 <br> Lon: 34.6229204593<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6229204593,31.7747475497,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:41Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7746279093 <br> Lon: 34.622877032<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.622877032,31.7746279093,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:42Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7745074925 <br> Lon: 34.6228366612<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6228366612,31.7745074925,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:42Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7743866297 <br> Lon: 34.6227981482<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6227981482,31.7743866297,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:43Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.774265659 <br> Lon: 34.622760101<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.622760101,31.774265659,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:43Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7741446618 <br> Lon: 34.6227221688<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6227221688,31.7741446618,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:44Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7740236587 <br> Lon: 34.6226842637<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6226842637,31.7740236587,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:44Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7739026555 <br> Lon: 34.6226463582<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6226463582,31.7739026555,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:45Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7737816588 <br> Lon: 34.6226084243<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6226084243,31.7737816588,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:45Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7736606902 <br> Lon: 34.6225703685<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6225703685,31.7736606902,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:46Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7735397948 <br> Lon: 34.6225319947<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6225319947,31.7735397948,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:46Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7734189247 <br> Lon: 34.6224935127<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6224935127,31.7734189247,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:47Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7732980005 <br> Lon: 34.6224552637<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6224552637,31.7732980005,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:47Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7731768255 <br> Lon: 34.6224181233<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6224181233,31.7731768255,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:48Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7730547712 <br> Lon: 34.6223852185<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6223852185,31.7730547712,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:48Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7729317678 <br> Lon: 34.6223575237<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6223575237,31.7729317678,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:49Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728082288 <br> Lon: 34.6223333293<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6223333293,31.7728082288,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:49Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7726857145 <br> Lon: 34.6223140157<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6223140157,31.7726857145,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:50Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7725792137 <br> Lon: 34.6222945288<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6222945288,31.7725792137,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:50Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7724895213 <br> Lon: 34.6222660052<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6222660052,31.7724895213,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:51Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7724068838 <br> Lon: 34.6222195583<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6222195583,31.7724068838,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:51Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7723364978 <br> Lon: 34.6221499983<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6221499983,31.7723364978,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:52Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7722706942 <br> Lon: 34.6220545455<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6220545455,31.7722706942,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:52Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7721975622 <br> Lon: 34.6219394465<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6219394465,31.7721975622,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:53Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7721186962 <br> Lon: 34.6218278627<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6218278627,31.7721186962,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:53Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.77204745 <br> Lon: 34.6217337078<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6217337078,31.77204745,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:54Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7720010787 <br> Lon: 34.6216538198<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6216538198,31.7720010787,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:54Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7719804075 <br> Lon: 34.6215677933<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6215677933,31.7719804075,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:55Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7719764028 <br> Lon: 34.6214594065<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6214594065,31.7719764028,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:55Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7719854883 <br> Lon: 34.6213222063<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6213222063,31.7719854883,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:56Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7720127533 <br> Lon: 34.621179323<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.621179323,31.7720127533,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:56Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7720501783 <br> Lon: 34.6210394132<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6210394132,31.7720501783,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:57Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7720922945 <br> Lon: 34.620901336<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.620901336,31.7720922945,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:57Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7721369493 <br> Lon: 34.6207643502<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6207643502,31.7721369493,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:58Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7721836765 <br> Lon: 34.6206283177<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6206283177,31.7721836765,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:58Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7722354222 <br> Lon: 34.6204948118<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6204948118,31.7722354222,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:59Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7722900385 <br> Lon: 34.6203628628<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6203628628,31.7722900385,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:03:59Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7723416948 <br> Lon: 34.620229314<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.620229314,31.7723416948,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:00Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7723863532 <br> Lon: 34.6200923363<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6200923363,31.7723863532,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:00Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7724312445 <br> Lon: 34.619955464<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.619955464,31.7724312445,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:01Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7724798068 <br> Lon: 34.6198252028<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6198252028,31.7724798068,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:01Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7725268218 <br> Lon: 34.6197226405<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6197226405,31.7725268218,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:02Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7725721025 <br> Lon: 34.6196620893<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196620893,31.7725721025,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:02Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7726212535 <br> Lon: 34.6196362827<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196362827,31.7726212535,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:03Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7726746325 <br> Lon: 34.619634454<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.619634454,31.7726746325,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:03Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7727278385 <br> Lon: 34.6196409455<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196409455,31.7727278385,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:04Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7727806843 <br> Lon: 34.6196503923<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196503923,31.7727806843,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:04Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728270933 <br> Lon: 34.6196538883<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196538883,31.7728270933,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:05Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.772853789 <br> Lon: 34.6196473813<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196473813,31.772853789,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:05Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728718947 <br> Lon: 34.6196339383<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196339383,31.7728718947,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:06Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728854593 <br> Lon: 34.6196146712<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196146712,31.7728854593,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:06Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728921295 <br> Lon: 34.6196014963<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196014963,31.7728921295,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:07Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728925738 <br> Lon: 34.6196005503<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196005503,31.7728925738,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:07Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728925738 <br> Lon: 34.6196005503<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196005503,31.7728925738,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:08Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728925738 <br> Lon: 34.6196005503<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196005503,31.7728925738,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:08Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728925738 <br> Lon: 34.6196005503<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196005503,31.7728925738,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:09Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728925738 <br> Lon: 34.6196005503<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196005503,31.7728925738,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:09Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728925738 <br> Lon: 34.6196005503<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196005503,31.7728925738,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:10Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728925738 <br> Lon: 34.6196005503<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196005503,31.7728925738,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:10Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728925738 <br> Lon: 34.6196005503<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196005503,31.7728925738,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:11Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728925738 <br> Lon: 34.6196005503<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196005503,31.7728925738,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:11Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728925738 <br> Lon: 34.6196005503<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196005503,31.7728925738,+0.00</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <TimeStamp>
+     <when>20-- T00:04:12Z</when>
+    </TimeStamp>
+    <description><![CDATA[Lat: 31.7728925738 <br> Lon: 34.6196005503<br> Speed: -39.49 km/h <br>]]></description>
+    <Point>
+        <coordinates>34.6196005503,31.7728925738,+0.00</coordinates>
+    </Point>
+</Placemark>
+        </Folder>
+    </Document>
+</kml>
